@@ -8,7 +8,7 @@
 
 Made By htadiy & imssy
 
-Forked from [imsyy-home](../imsyy/home).
+Forked from [imsyy-home](../../../../imsyy/home).
 </p>
 
 ![無名の主页](/screenshots/main.jpg)
